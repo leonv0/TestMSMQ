@@ -396,3 +396,6 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+/.vs/VSWorkspaceState.json
+/.vs/TestMSMQ/v17/.wsuo
+/.vs/TestMSMQ/FileContentIndex/*.vsidx
