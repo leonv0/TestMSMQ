@@ -1,6 +1,6 @@
 Create first record.
 Create second record.
 Create theird record.
-Conflict 1
+Conflict 3
 
 retry
